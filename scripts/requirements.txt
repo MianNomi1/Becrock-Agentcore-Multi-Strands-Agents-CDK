@@ -1,0 +1,4 @@
+boto3==1.43.108
+botocore==1.43.108
+mcp==1.30.0
+mcp-proxy-for-aws==1.7.0
